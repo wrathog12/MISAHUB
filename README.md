@@ -1,4 +1,4 @@
-Great! Here's a clean and professional **README.md** for your capsule endoscopy image classification project using ResNet-50:
+#Misahub
 
 ---
 
@@ -94,7 +94,7 @@ To develop a reliable image classification pipeline that detects 10 specific con
 ## 📬 Contact
 
 For questions or collaborations, feel free to reach out at:
-**Abhishek Choudhary** – [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+**Abhishek Choudhary** – [LinkedIn](www.linkedin.com/in/abhishek-choudhary-ml-ops) | [Email](mailto:2eze4abhishek@gmail.com)
 
 ---
 
